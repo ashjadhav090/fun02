@@ -1,15 +1,15 @@
 const facts = [
     {
-        text: "Machine learning models can learn from data without being explicitly programmed.",
-        background: "url('https://example.com/ml1.jpg')"
+        text: "Generative AI can create new content, from images to music, based on patterns it learns from existing data.",
+        background: "url('https://example.com/genai1.jpg')"
     },
     {
-        text: "Deep learning is a subset of machine learning that uses neural networks with three or more layers.",
-        background: "url('https://example.com/ml2.jpg')"
+        text: "AI like GPT-3 can generate human-like text based on the input it receives.",
+        background: "url('https://example.com/genai2.jpg')"
     },
     {
-        text: "Support Vector Machines (SVM) are supervised learning models used for classification and regression tasks.",
-        background: "url('https://example.com/ml3.jpg')"
+        text: "Generative adversarial networks (GANs) are a type of AI used to generate new data instances that resemble your training data.",
+        background: "url('https://example.com/genai3.jpg')"
     }
 ];
 
